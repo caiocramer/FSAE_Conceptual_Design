@@ -1,0 +1,46 @@
+// -----------------------|
+//	     TRACKS DATA      |
+// -----------------------|
+
+Acceleration;	// Label
+1;				// Track ID
+0;				// Elevation [ft]
+30;				// Reference Temperature [degC]
+3.7				// Reference time [s]
+
+SEGMENTS
+TYPE (S/L/R); LENGTH[m]; RADIUS [m]; SLOPE [%];		// S = straight / L = left curve / R = right curve / RADIUS = 0.0 for straights)
+S;75.0;0.0;0.0;
+
+=======================================
+
+Skidpad;		// Label
+2;				// Track ID
+0;				// Elevation [ft]
+30;				// Reference Temperature [degC]
+5.17			// Reference time [s]
+
+SEGMENTS
+TYPE (S/L/R); LENGTH[m]; RADIUS [m]; SLOPE [%];		// S = straight / L = left curve / R = right curve / RADIUS = 0.0 for straights)
+R;57.3;9.125;0.0;
+R;57.3;9.125;0.0;
+L;57.3;9.125;0.0;
+L;57.3;9.125;0.0;
+
+=======================================
+
+Autox;			// Label
+3;				// Track ID
+0;				// Elevation [ft]
+30;				// Reference Temperature [degC]
+25.0;			// Reference time [s]
+
+SEGMENTS
+TYPE (S/L/R); LENGTH[m]; RADIUS [m]; SLOPE [%];		// S = straight / L = left curve / R = right curve / RADIUS = 0.0 for straights)
+S;70.0;0.0;1.2;
+L;62.8;20;0.0;
+S;70.0;0.0;-1.2;
+L;62.8;20;0.0;
+
+=======================================
+
