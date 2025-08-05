@@ -1,0 +1,34 @@
+// -----------------------|
+//	 VEHICLE INPUT DATA   |
+// -----------------------|
+
+CAR-01;		// Vehicle name
+25.0001;	// Vehicle ID
+
+OVERALL DIMENSIONS
+1.500;	// Wheelbase [m]
+1.200;	// Front Track [m]
+1.200;	// Rear Track [m]
+2.200;	// Frontal area [m²]
+
+DRIVETRAIN
+0.800;	// Overall reduction [-]
+2.100;	// 1st gear [-]
+1.800;	// 2nd gear [-]
+1.400;	// 3rd gear [-]
+1.200;	// 4th gear [-]
+1.000;	// 5th gear [-]
+0.900;	// 6th gear [-]
+0.500;	// Gear shift time [s]
+
+AERODYNAMICS
+0;		// Switch (1 = ON/ 2 = OFF)
+0.340;	// Total Drag Coefficient [-]
+1.300;	// Total Downforce Coefficient [-]
+
+DATABASE SELECTORS
+1;	// Engine ID
+1;	// Tire ID
+
+=======================================
+
