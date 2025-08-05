@@ -3,8 +3,8 @@ Formula SAE (FSAE) Conceptual Design is a software, currently in development, wh
 
 - Low computational cost
 - Flexibility with regard to geometry parametrization and manipulation
-- Optimization based on gradients
 - Use of open-source programming language
+- Easily connectable with optimization third parties
 
 # General information
 - Source code language: C
@@ -16,6 +16,15 @@ Formula SAE (FSAE) Conceptual Design is a software, currently in development, wh
 
 # Getting started
 General explanation on how to compile and execute the src code (TBD)
+
+## Clone repository
+(TBD) Step-by-step on clonning repo locally
+
+## Install required thirdparties
+(TBD) Enviroment setup, including VSCODE, GCC, etc
+
+## Execute code
+(TBD) How to run 
 
 # Examples
 TBD
