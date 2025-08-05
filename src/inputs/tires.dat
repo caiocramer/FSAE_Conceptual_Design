@@ -1,0 +1,23 @@
+// -----------------------|
+//	     TIRES DATA       |
+// -----------------------|
+
+H;			// Label
+10;			// Wheel [in]
+5.0;		// Tire Weight [kg]
+
+SLIPRATIO DATA
+Slipratio [-]; Longitudinal [g]; Lateral [g];
+1.0; 1.5; 1.4;
+
+=======================================
+
+H;			// Label
+13;			// Wheel [in]
+6.0;		// Tire Weight [kg]
+
+SLIPRATIO DATA
+Slipratio [-]; Longitudinal [g]; Lateral [g];
+1.0; 1.5; 1.4;
+
+=======================================
